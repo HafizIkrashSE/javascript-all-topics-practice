@@ -17,7 +17,7 @@ Whether you're following the Chai Aur Code playlist or revising JavaScript conce
 - Operators
 - Strings
 - Numbers & Math
-- Dates & Time
+- Date & Time
 
 ### Control Flow
 - if / else
