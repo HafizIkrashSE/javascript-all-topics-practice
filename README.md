@@ -112,7 +112,7 @@ The goal of this repository is to:
 
 ---
 
-## 📖 Learning Resource
+### 📖 Learning Resource
 
 This repository is based on the **JavaScript Playlist by Chai Aur Code**.
 
