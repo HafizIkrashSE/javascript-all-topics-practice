@@ -8,7 +8,7 @@ Whether you're following the Chai Aur Code playlist or revising JavaScript conce
 
 ---
 
-## 📚 Topics Covered
+#### 📚 Topics Covered
 
 ### JavaScript Basics
 - Variables (`var`, `let`, `const`)
