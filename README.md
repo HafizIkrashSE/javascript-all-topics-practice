@@ -1,4 +1,4 @@
-# 🚀 JavaScript All Topics Practice
+### 🚀 JavaScript All Topics Practice
 
 A complete JavaScript practice repository based on the **Chai Aur Code JavaScript** playlist.
 
